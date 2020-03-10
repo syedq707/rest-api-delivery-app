@@ -1,2 +1,2 @@
 # rest-api-delivery-app
-Rest API for food delivery app
+RESTful APIs for food delivery app
